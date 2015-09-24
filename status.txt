@@ -1,0 +1,185 @@
+Tue Sep 22 13:47:35 EDT 2015
+Program start
+=======================
+how-long-idle:
+Time Idle: 55
+Time Left: 1745
+Status: fifteen
+status-check:
+evaluating
+	Sleep for 15 minutes
+
+Tue Sep 22 14:21:32 EDT 2015
+Program start
+=======================
+how-long-idle:
+Time Idle: 86
+Time Left: 14
+Status: countdown
+status-check:
+evaluating
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 87
+Time Left: 13
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 88
+Time Left: 12
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 89
+Time Left: 11
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 91
+Time Left: 9
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 92
+Time Left: 8
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 93
+Time Left: 7
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 94
+Time Left: 6
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 95
+Time Left: 5
+	Time to force logout
+	do logout
+Thu Sep 24 16:20:40 EDT 2015
+Program start
+=======================
+how-long-idle:
+Time Idle: 0
+Time Left: 120
+Status: one
+status-check:
+evaluating
+	Sleep for 1 minutes
+Time Idle: 59
+Time Left: 61
+	Sleep for 15 seconds
+	Status: warning
+Time Idle: 74
+Time Left: 46
+	Sleep for 5 seconds
+	Status: almost
+Time Idle: 79
+Time Left: 41
+	Sleep for 5 seconds
+	Status: almost
+Time Idle: 85
+Time Left: 35
+	Sleep for 5 seconds
+	Status: almost
+Time Idle: 90
+Time Left: 30
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 91
+Time Left: 29
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 92
+Time Left: 28
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 93
+Time Left: 27
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 94
+Time Left: 26
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 95
+Time Left: 25
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 96
+Time Left: 24
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 97
+Time Left: 23
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 98
+Time Left: 22
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 99
+Time Left: 21
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 100
+Time Left: 20
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 101
+Time Left: 19
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 102
+Time Left: 18
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 103
+Time Left: 17
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 104
+Time Left: 16
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 105
+Time Left: 15
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 106
+Time Left: 14
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 107
+Time Left: 13
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 108
+Time Left: 12
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 109
+Time Left: 11
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 110
+Time Left: 10
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 111
+Time Left: 9
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 112
+Time Left: 8
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 113
+Time Left: 7
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 114
+Time Left: 6
+	Sleep for 1 seconds
+	Status: countdown
+Time Idle: 115
+Time Left: 5
+	Time to force logout
+	do logout
+hi
